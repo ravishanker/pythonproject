@@ -1,0 +1,4 @@
+pythonproject
+=============
+
+Sample Django project
